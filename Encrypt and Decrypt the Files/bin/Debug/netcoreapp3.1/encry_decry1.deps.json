@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "encry_decry1/1.0.0": {
+        "runtime": {
+          "encry_decry1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "encry_decry1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
